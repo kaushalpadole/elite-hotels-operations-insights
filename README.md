@@ -1,8 +1,8 @@
-# Hotel Mercy: Insights for Optimized Operations
+# Elite Hotels: Insights for Optimized Operations
 
 ## Project Overview
 
-This project analyzes hotel booking data to understand booking patterns, cancellations, guest behavior, pricing, and market-segment differences. The analysis follows the **25 Basic, Medium, and Advanced EDA questions** in the *Hotel Mercy: Insights for Optimized Operations* project brief.
+This project analyzes hotel booking data to understand booking patterns, cancellations, guest behavior, pricing, and market-segment differences. The analysis follows the **25 Basic, Medium, and Advanced EDA questions** in the *Elite Hotels : Insights for Optimized Operations* project brief.
 
 The business objective is to turn booking data into practical insights that can support occupancy planning, cancellation management, pricing analysis, and guest-service decisions.
 
@@ -428,6 +428,6 @@ A box plot compared `lead_time` across market segments.
 
 ## Conclusion
 
-This project used exploratory analysis, visualization, logistic regression, multiple linear regression, and correlation analysis to answer the 25 questions in the Hotel Mercy brief. The results highlight differences in booking volume, cancellation behavior, ADR, seasonal patterns, and lead time across hotel types and market segments.
+This project used exploratory analysis, visualization, logistic regression, multiple linear regression, and correlation analysis to answer the 25 questions in the Elite Hotels brief. The results highlight differences in booking volume, cancellation behavior, ADR, seasonal patterns, and lead time across hotel types and market segments.
 
 The findings can support further investigation into cancellation management, demand planning, pricing, and channel strategy. Before operational use, the analysis should be strengthened by validating duplicate handling, adding relevant predictors, and testing model performance on unseen data.
