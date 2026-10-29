@@ -115,17 +115,6 @@ Based on the analysis, the following improvements are recommended:
 - Improve forecasting by combining booking data with occupancy, staffing, and revenue data.
 - Develop a dashboard for hotel managers to track ADR, cancellation rate, and demand trends in real time.
 
-## Recommended Improvements for Future Versions
-
-To make the project more impactful and production-ready, the following improvements are recommended:
-
-1. Add more business features such as room occupancy, seasonal promotions, and staff capacity data.
-2. Integrate real-time booking and cancellation data for more accurate forecasting.
-3. Create a dashboard using Power BI or Streamlit for easier business monitoring.
-4. Exploit more advanced modeling techniques to improve cancellation prediction and revenue forecasting.
-5. Add a data dictionary documenting each column, field meaning, and business interpretation.
-6. Combine this analysis with operational KPIs such as room utilization, guest satisfaction, and profitability.
-
 ## Conclusion
 
 This project demonstrates how data analysis can provide valuable insight into hotel operations. By examining booking demand, cancellations, pricing, and market behavior, the analysis turns raw transactional data into practical business knowledge.
